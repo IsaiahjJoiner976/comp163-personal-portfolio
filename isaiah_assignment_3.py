@@ -12,11 +12,11 @@ credit_hours = ["3", "3", "3", "3"]
 GPA_history = ["3.2", "3.6", "3.4", "3.7"]
 
 #Contact Information Storage(tuple)
-emergency_contact = ("Mom", "Hannah Smith", "704-555-0199")
-home_address = ("456 Oak Street", "Charlotte", "NC", "28202")
-insta_info = ("Instagram", "@jordan_codes", "312")
+emergency_contact = ("Mom", "Char'L Joiner", "404-309-9769")
+home_address = ("573 Richmond Place", "Loganville", "GA", "30052")
+insta_info = ("Instagram", "@zeekj0iner", "4")
 twitter_info = ("Twitter", "@jordandev", "127")
-birthday_info = ("Birthday", "5", "22", "2006")
+birthday_info = ("Birthday", "9", "7", "2006")
 
 #Interest Tracking(set)
 current_skills = {"Python basics", "HTML", "Web design", "Time management", "Photography"}
@@ -138,6 +138,7 @@ print(f"Entertainment Backlog: {entertain_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("=" * 64)
+
 
 
 
