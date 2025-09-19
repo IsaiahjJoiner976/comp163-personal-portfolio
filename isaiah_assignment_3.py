@@ -1,5 +1,5 @@
 #Personal Information Storage(string values)
-full_name = "Jordan Smith"
+full_name = "Jordan Smith" 
 student_email = "jsmith@ncat.edu"
 hometown = "Charlotte, NC"
 grad_semester = "Spring 2028"
@@ -136,4 +136,5 @@ print(f"Total Courses Completed: {completed_courses_count}")
 print(f"Current Academic Load: {academic_workload} weekly commitments")
 print(f"Entertainment Backlog: {entertain_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
+
 print("=" * 64)
