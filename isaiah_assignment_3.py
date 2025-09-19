@@ -19,11 +19,11 @@ twitter_info = ("Twitter", "@jordandev", "127")
 birthday_info = ("Birthday", "5", "22", "2006")
 
 #Interest Tracking(set)
-current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
-skills_learn = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
+current_skills = {"Python basics", "HTML", "Web design", "Time management", "Photography"}
+skills_learn = {"JavaScript", "Data structures", "Git", "Problem Solving", "Public speaking"}
 career_interests = {"Software development", "Web development", "Data science", "Game development"}
-hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertain_backlog = {"One Piece", "Barry", "Life", "Incantation", "Memento"}
+hobbies = {"Gaming", "Photography", "Reading", "Writing", "Music"}
+entertain_backlog = {"One Piece", "Event Horizon", "The Faculty", "From Dusk Till Dawn", "Memento"}
 
 #Organizational Mapping(dictionary)
 course_credit = {
@@ -138,5 +138,6 @@ print(f"Entertainment Backlog: {entertain_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("=" * 64)
+
 
 
