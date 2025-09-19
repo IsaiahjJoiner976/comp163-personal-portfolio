@@ -1,8 +1,8 @@
 #Personal Information Storage(string values)
-full_name = "Jordan Smith" 
-student_email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
-grad_semester = "Spring 2028"
+full_name = "Isaiah Joiner"
+student_email = "ijjointer@aggies.ncat.edu"
+hometown = "Loganville, GA"
+grad_semester = "Spring 2029"
 major = "Computer Science"
 
 #Academic Data Organization(list)
@@ -138,3 +138,4 @@ print(f"Entertainment Backlog: {entertain_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("=" * 64)
+
