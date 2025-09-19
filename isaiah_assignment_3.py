@@ -6,8 +6,8 @@ grad_semester = "Spring 2029"
 major = "Computer Science"
 
 #Academic Data Organization(list)
-courses_current = ["COMP 163", "MATH 150", "ENG 101", "HIS 105"]
-courses_completed = ["Biology", "Chemistry", "Calculus", "Spanish II", "World History"]
+courses_current = ["COMP 163", "MATH 131", "ENGL 101", "HIST 105", "GEEN 111", "FIRST 101" ]
+courses_completed = ["Physics", "Calculus", "AP Macro", "IT Web Design", "FL Spanish 1"]
 credit_hours = ["3", "3", "3", "3"]
 GPA_history = ["3.2", "3.6", "3.4", "3.7"]
 
@@ -138,4 +138,5 @@ print(f"Entertainment Backlog: {entertain_backlog_count} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("=" * 64)
+
 
